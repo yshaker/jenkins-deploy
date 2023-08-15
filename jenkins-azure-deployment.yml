@@ -1,5 +1,6 @@
 
   - name: Install Jenkins
+    task:
     delegate_to: "{{ vm_name }}"
     become: yes
     block:
