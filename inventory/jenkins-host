@@ -1,2 +1,5 @@
-[jenkins-host]
-jenkins-host ansible_host=20.185.22.164  
+some_group:
+  hosts:
+    some_host:
+      ansible_host: 20.185.22.164 
+      vm_name: jenkins-server
