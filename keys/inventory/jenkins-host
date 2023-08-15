@@ -1,2 +1,2 @@
 [jenkins-host]
-jenkins-host ansible_host=20.185.22.164 
+jenkins-host ansible_host=20.185.22.164  
